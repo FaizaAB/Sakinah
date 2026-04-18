@@ -1,3 +1,4 @@
+# Sakinah — Faith-Aligned Mental Health Support for Muslims
 # Sakinah
 
 **Faith-aligned mental health support for Muslims**
