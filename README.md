@@ -11,3 +11,4 @@ Sakinah is a faith-aligned mental health platform for Muslims. It connects users
 - AI intake and matching
 
 ## Live site
+https://faizaab.github.io/Sakinah/
